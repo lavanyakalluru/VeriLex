@@ -1,2 +1,2 @@
-# VeriLLM
-Real-Time Adaptive Verification for LLMs with Self-Healing Knowledge Graphs
+# VeriLex
+Abstrative summary of court judgements with explainability.
